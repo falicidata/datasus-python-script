@@ -1,5 +1,5 @@
 # datasus-python-script
 
-Exemplo de parametros no script:
+Exemplo de parâmetros no script:
 
 ![Python Script](script_python.png)
