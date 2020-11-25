@@ -2,4 +2,4 @@
 
 Exemplo de parametros no script:
 
-(cript_python.png)
+![Python Script](script_python.png)
